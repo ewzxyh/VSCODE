@@ -1,0 +1,1742 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Locacao_Cacambas",
+            "request": "launch",
+            "mainClass": "MiniProjeto.controle.controle_cliente.Locacao_Cacambas",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "VisualizarRelatorio",
+            "request": "launch",
+            "mainClass": "MiniProjeto.Relatorio.VisualizarRelatorio",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "VisualizarRelatorio",
+            "request": "launch",
+            "mainClass": "MiniProjeto.modelo.VisualizarRelatorio",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MiniProjeto.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.SICOF.application.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "view.app",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.BANCODEDADOS.visao.Principal",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.AtividadeComboBox.util.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.FIXACAO.ex8.Main",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.FIXACAO.ex7.Main",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.FIXACAO.ex5.Main",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.ATIVIDADE.Principal",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "javinha.DESENVOLVIMENTO.ATIVIDADE1.Principal",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "view.ComponenteComboBox.controle.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "view.ComponenteDatePicker.controle.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "view.ComponenteComboBox.controle.visao.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "view.ComponenteButtonTextField.controle.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "view.ComponenteButton.controle.visao.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "view.ComponenteButton.controle.Main",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "appLogin",
+            "request": "launch",
+            "mainClass": "view.appLogin",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "appImageView",
+            "request": "launch",
+            "mainClass": "view.appImageView",
+            "projectName": "VSCODE_60a918fa",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "appBtn",
+            "request": "launch",
+            "mainClass": "view.appBtn",
+            "projectName": "Java_2a6fa112",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "view.app",
+            "projectName": "Java_2a6fa112",
+            "vmArgs": "--module-path \"C:/Users/yoshi/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "DESENVOLVIMENTO.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(1)",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.Fila.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Base",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.FilaEncadeada.Base",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "TesteLista",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.Lista.TesteLista",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Base(1)",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.ListaDuplamenteEncadeada.Base",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Base(2)",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.ListaEncadeada.Base",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Base(3)",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.ListaOrdenada.Base",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Base(4)",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.PilhaEncadeada.Base",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.PilhaMetodo.TestaPilha",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Base(5)",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.RetanguloMetodo.Base",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.ex1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.ex2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.ex3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex4",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.ex4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(2)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.AlunoMetodo.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(3)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.AlunoMetodo2.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Randomico",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.AlunoMetodo2.Randomico",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(4)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.AlunoRandomico.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "PrincipalRandomico",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.AlunoRandomico.PrincipalRandomico",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "PrincipalRandomicoUtil",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.AlunoRandomico.PrincipalRandomicoUtil",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "GerarPlaca",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.CadastroVeiculos.GerarPlaca",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(5)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.Collections.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1(1)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ExsInicio.ex1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2(1)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ExsInicio.ex2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex4(1)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ExsInicio.ex4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex5",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ExsInicio.ex5",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex6",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ExsInicio.ex6",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ordenacao",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ExsInicio.ordenacao",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova3",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ExsInicio.prova3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(6)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.Funcionario.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "BaseAnimal",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.HerancaSimples.Animal.BaseAnimal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Base(6)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.HerancaSimples.Conta.Base",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(7)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.HerancaSimples.Funcionario.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Jogo",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.Jogo1.Jogo",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Jogo(1)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.JogoDeAdivinhacao.Jogo",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Leitura",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.LeituraCollections.Leitura",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "megasena",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.MegaSena.megasena",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "TestaAnimal",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.Polimorfismo.Animal.TestaAnimal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "TestaCarro",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.Polimorfismo.Carro.TestaCarro",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(8)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ProjetoSuperMercado.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal(9)",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.SistemaCarros.Principal",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal01",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.StringCarecteres.Principal01",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Principal02",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.StringCarecteres.Principal02",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3prova",
+            "request": "launch",
+            "mainClass": "TecnicasDeProgramacao.ex3.ex3prova",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "exMatrix",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAMatrix.exMatrix",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "jogodavelha",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAMatrix.jogodavelha",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "matrix1",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAMatrix.matrix1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "matrix2",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAMatrix.matrix2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "matrix3",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAMatrix.matrix3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "matrix4",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAMatrix.matrix4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "matrix5",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAMatrix.matrix5",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab1",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab10",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab10",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab11",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab11",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab12",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab12",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab14",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab14",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab2",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab3",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab4",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab5",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab5",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab6",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab6",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab7",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab7",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab8",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab8",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab8_1",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab8_1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "lab9",
+            "request": "launch",
+            "mainClass": "OUTROS.AULARepetição.lab9",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "vetor1",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAVetor.vetor1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "vetor2",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAVetor.vetor2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "vetor3",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAVetor.vetor3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "vetor4",
+            "request": "launch",
+            "mainClass": "OUTROS.AULAVetor.vetor4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1(2)",
+            "request": "launch",
+            "mainClass": "OUTROS.CARMEN.ex1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2(2)",
+            "request": "launch",
+            "mainClass": "OUTROS.CARMEN.ex2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3(1)",
+            "request": "launch",
+            "mainClass": "OUTROS.CARMEN.ex3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex4(2)",
+            "request": "launch",
+            "mainClass": "OUTROS.CARMEN.ex4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex5(1)",
+            "request": "launch",
+            "mainClass": "OUTROS.CARMEN.ex5",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Aula4",
+            "request": "launch",
+            "mainClass": "OUTROS.LAB.Aula4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Aula4_1",
+            "request": "launch",
+            "mainClass": "OUTROS.LAB.Aula4_1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Aula4_2",
+            "request": "launch",
+            "mainClass": "OUTROS.LAB.Aula4_2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "Aula4_3",
+            "request": "launch",
+            "mainClass": "OUTROS.LAB.Aula4_3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "teste2",
+            "request": "launch",
+            "mainClass": "OUTROS.LAB.teste2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex10c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex10c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex11c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex11c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex12c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex12c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex13c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex13c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex14c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex14c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex15c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex15c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex16c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex16c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex17c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex17c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex18c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex18c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex19c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex19c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex1c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex20c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex20c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex21c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex21c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex22c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex22c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex23c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex23c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex24c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex24c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex25c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex25c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex26c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex26c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex27c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex27c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex28c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex28c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex29c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex29c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex2c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex30c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex30c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex3c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex4c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex4c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex5c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex5c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex6c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex6c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex7c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex7c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex8c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex8c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex9c",
+            "request": "launch",
+            "mainClass": "OUTROS.LABCondicional.ex9c",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex10r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex10r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex11r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex11r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex12r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex12r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex13r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex13r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex14r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex14r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex15r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex15r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex16r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex16r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex17r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex17r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex18r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex18r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex19r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex19r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex1r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex20r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex20r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex21r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex21r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex22r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex22r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex23r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex23r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex24r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex24r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex25r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex25r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex26r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex26r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex27r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex27r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex28r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex28r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex29r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex29r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex2r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex30r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex30r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex3r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex4r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex4r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex5r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex5r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex6r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex6r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex7r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex7r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex8r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex8r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex9r",
+            "request": "launch",
+            "mainClass": "OUTROS.LABRepeticao.ex9r",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex10s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex10s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex11s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex11s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex12s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex12s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex13s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex13s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex14s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex14s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex15s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex15s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex16s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex16s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex17s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex17s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex18s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex18s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex19s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex19s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex1s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex20s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex20s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex21s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex21s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex22s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex22s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex23s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex23s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex24s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex24s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex25s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex25s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex26s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex26s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex27s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex27s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex28s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex28s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex29s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex29s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex2s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex30s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex30s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex3s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex4s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex4s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex5s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex5s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex6s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex6s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex7s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex7s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex8s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex8s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex9s",
+            "request": "launch",
+            "mainClass": "OUTROS.LABSequencial.ex9s",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex10v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex10v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex11v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex11v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex12v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex12v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex13v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex13v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex14v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex14v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex15v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex15v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex16v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex16v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex17v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex17v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex18v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex18v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex19v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex19v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex1v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex20v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex20v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex21v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex21v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex22v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex22v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex23v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex23v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex24v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex24v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex26v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex26v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex27v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex27v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex28v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex28v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex29v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex29v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex2v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex30v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex30v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex3v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex4v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex4v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex5v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex5v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex6v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex6v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex7v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex7v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex8v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex8v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex9v",
+            "request": "launch",
+            "mainClass": "OUTROS.LABVetorMatrix.ex9v",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1(3)",
+            "request": "launch",
+            "mainClass": "OUTROS.ListaCarmen.ex1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2(3)",
+            "request": "launch",
+            "mainClass": "OUTROS.ListaCarmen.ex2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3(2)",
+            "request": "launch",
+            "mainClass": "OUTROS.ListaCarmen.ex3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "BatalhaNaval",
+            "request": "launch",
+            "mainClass": "OUTROS.jogo.BatalhaNaval",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "QuebraCabeça",
+            "request": "launch",
+            "mainClass": "OUTROS.jogo.QuebraCabeça",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "QuebraCabeçaSemGUI",
+            "request": "launch",
+            "mainClass": "OUTROS.jogo.QuebraCabeçaSemGUI",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova1",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA.prova1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova2",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA.prova2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova3(1)",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA.prova3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova1(1)",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA2.prova1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova2(1)",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA2.prova2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova3(2)",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA2.prova3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "prova4",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA2.prova4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "P",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.P",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "P1",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.P1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "P2",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.P2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "P3",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.P3",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "P4",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.P4",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "P5",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.P5",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "P6",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.P6",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex1(4)",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.ex1",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex2(4)",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.ex2",
+            "projectName": "Java_2a6fa112"
+        },
+        {
+            "type": "java",
+            "name": "ex3(3)",
+            "request": "launch",
+            "mainClass": "PROVAS.PROVA3.ex3",
+            "projectName": "Java_2a6fa112"
+        }
+    ]
+}

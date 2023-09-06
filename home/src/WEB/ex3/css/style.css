@@ -1,0 +1,64 @@
+body{
+    width: 400px !important;
+    height: 500px !important;
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-color: #4d4d4d;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+}
+
+.Header{
+    width: 400px;
+    height: 50px;
+    background-color: #272727;
+    color: #fff;
+}
+
+.Principal{
+    display: flex;
+}
+
+.Conteudo {
+    width: 300px;
+    height: 350px;
+    background-color: #ffcc00;
+}
+
+.link-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.link-list li {
+    margin-bottom: 10px;
+}
+
+.link-list a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+li:hover a{
+    color: #fff !important
+}
+
+.Direita {
+    flex-grow: 1;
+    background-image: url('../img/placeholder.jpg') !important; 
+    background-size: cover;
+    background-position: center;
+}
+
+.Rodape{
+    width: 400px;
+    height: 100px;
+    background-color: #272727;
+    color: #fff;
+    display: flex;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+}

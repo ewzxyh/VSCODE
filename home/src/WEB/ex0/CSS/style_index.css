@@ -1,0 +1,110 @@
+h1 {
+  font-family: Montserrat;
+  padding-top: 1em;
+}
+
+/************** Imagem do Site */
+img.logo {
+  width: 110px;
+}
+
+/************** Menu do Site */
+div.navbar-and-logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5em;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #191919;
+  z-index: 1;
+}
+
+/************** Menu do Site */
+div.menu {
+  display: flex;
+  padding: 1.5em 17em;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #191919;
+  z-index: 1;
+}
+
+ul.navbar {
+  list-style-type: none;
+  padding: 0 50px;
+  left: 0;
+  display: flex; /* Adicionado para alinhar os itens na horizontal */
+  font-size: 18px;
+}
+
+ul.navbar li {
+  margin: 0 0.5em; /* Espaçamento entre os itens */
+  padding: 0.3em;
+}
+
+ul.navbar a {
+  text-decoration: none;
+  color: white;
+}
+
+ul.navbar li:hover {
+  background-color: #333;
+  border-radius: 50px;
+}
+
+/************** Texto Index */
+.content {
+  margin-left: 0;
+  width: auto;
+}
+
+div.text-index {
+  width: 50em;
+  padding: 0 12em;
+}
+
+/************** Banner */
+div.banner {
+  margin-top: -2em;
+  margin-left: 0;
+  width: auto;
+  overflow: hidden; /* Impede que o conteúdo exceda os limites do elemento pai */
+  position: relative; /* Define o posicionamento do elemento */
+}
+
+div.banner-overlay {
+  position: absolute; /* Posicionado sobre a imagem */
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60%; /* Altura do gradiente, ajuste conforme necessário */
+  background: linear-gradient(to bottom, transparent, #191919);
+  pointer-events: none; /* Permite que os elementos abaixo sejam clicáveis */
+}
+
+div.banner-container {
+  max-width: 100%; /* Define o tamanho máximo do container do banner */
+  margin: 0 auto; /* Centraliza o container horizontalmente */
+}
+
+img.banner-img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  left: 0;
+}
+
+/************** Rodapé do Site */
+address {
+  margin-top: 1em;
+  margin-bottom: 3em;
+  padding-top: 1em;
+  border-top: thin dotted;
+  font-family: Montserrat;
+  font-size: 0.8em;
+}

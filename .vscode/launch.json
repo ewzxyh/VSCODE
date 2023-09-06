@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShoppingCart",
+            "request": "launch",
+            "mainClass": "ShoppingCart",
+            "projectName": "VSCODE_60a918fa"
+        },
+        {
+            "type": "java",
             "name": "Locacao_Cacambas",
             "request": "launch",
             "mainClass": "MiniProjeto.controle.controle_cliente.Locacao_Cacambas",

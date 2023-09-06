@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<input type="text" id="Input">
+
+<script>
+const input = document.getElementById('Input');
+
+input.addEventListener('keypress', function(event) {
+  const key = event.key.toUpperCase();
+  if (key === 'Q' || key === 'W' || key === 'X') {
+    event.preventDefault();
+  }
+});
+</script>
+
+</body>
+</html>

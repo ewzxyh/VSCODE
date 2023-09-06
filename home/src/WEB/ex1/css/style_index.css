@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia;
+    color: #164B60; 
+    background-color: #C1ECE4;
+    margin: 0;
+}
+
+body h1{   
+    font-family: Futura;
+    font-size: 20px;
+}
+
+a {
+    font-family: Arial;
+    color: #E76161;
+}
+
+a:hover {
+    color: darkred;
+}
+
+.hero{
+    background-color: #FEFF86;
+    font-family: Times;
+    font-size: 11px;
+    color: #2D2727;
+}
+
+.text{
+    background-color: #2D2727;
+    font-size: 11px;
+    color: #fffff2;
+}
+
+.text:hover{
+    background-color: #fffff2;
+    color: #2D2727;
+}

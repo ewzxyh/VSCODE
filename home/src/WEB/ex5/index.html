@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<style>
+    .rastro {
+        position: absolute;
+        height: 6px;
+        width: 6px;
+        border-radius: 3px;
+        background: teal;
+    }
+    body{
+        height: 300px;
+        background-color: #efe9dd;
+    }
+</style>
+
+<canvas id="rastro-mouse"></canvas>
+
+<script>
+    // Get the canvas element and set its size
+    const canvas = document.getElementById('rastro-mouse'); //pega o elemento canvas
+  const ctx = canvas.getContext('2d'); //renderiza o canvas em 2d
+  canvas.width = window.innerWidth; //define a largura do canvas
+  canvas.height = window.innerHeight; //define a altura do canvas
+
+  // Track the previous mouse position
+  let prevX;
+  let prevY;
+
+  // Attach event listener to track mouse movements
+  document.addEventListener('mousemove', function(event) { //adiciona um evento de mousemove ao documento
+    const x = event.clientX;
+    const y = event.clientY;
+    
+    if (prevX != undefined && prevY != undefined) { //se o mouse se mover
+      // Conecta o ponto anterior com o atual
+      ctx.beginPath(); //inicia o desenho
+      ctx.moveTo(prevX, prevY); //move o cursor para a posição anterior
+      ctx.lineTo(x, y); //desenha uma linha até a posição atual
+      ctx.strokeStyle = 'teal';
+      ctx.lineWidth = 3; //define a largura da linha
+      ctx.stroke();  //desenha a linha
+    }
+    
+    // Salva a posição atual do mouse
+    prevX = x;
+    prevY = y;
+  });
+</script>
+
+</body>
+</html>

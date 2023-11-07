@@ -1,0 +1,16 @@
+.form{
+    width: 100%;
+    margin: 1.8em 0;
+}
+
+.form Select{
+    width: 100%;
+    margin: 1.8em 0;
+    padding: 0.7em;
+    border: none;
+    border-radius: 0;
+}
+
+.form Select:placeholder{
+    color: #ccc;
+}

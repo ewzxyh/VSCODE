@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'KUNAI';
+  src: url('./assets/font/KUNAI.otf') format('otf'),
+       url('./assets/font/KUNAI.ttf') format('ttf'),
+       url('./assets/font/KUNAI.woff') format('woff');
+}
+
+body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+  font-family: 'Montserrat', Montserrat;
+}

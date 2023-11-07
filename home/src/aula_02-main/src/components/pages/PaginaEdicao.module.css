@@ -1,0 +1,46 @@
+.pagina_details{
+    padding: 2em;
+}
+
+.pagina_details h1
+.pagina_details h2
+.pagina_details p{
+    margin-bottom: 0.5em;
+}
+
+.details_container{
+    border-bottom: 1px solid #8d8d8d;
+    padding: 1.2em;
+    margin-bottom: 1.2em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.details_container h1{
+    color: #222;
+    padding: 0.2em 0;
+}
+
+.form_container{
+
+}
+
+.btn{
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    tranition: 0.8s;
+    cursor: none;
+    max-height: 40px;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    color: #8231f4;
+}
+
+.pagina_info{
+    width: 100%;
+}

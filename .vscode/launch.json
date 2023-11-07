@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "backend2.App",
+            "projectName": "backend2"
+        },
+        {
+            "type": "java",
             "name": "ShoppingCart",
             "request": "launch",
             "mainClass": "ShoppingCart",

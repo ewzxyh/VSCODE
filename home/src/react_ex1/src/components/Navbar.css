@@ -1,0 +1,55 @@
+.navbar {
+    position: fixed;
+    top: 0%;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    color: #333;
+    transition: height 0.3s ease-in-out;
+    z-index: 1;
+    overflow-y: auto;
+  }
+  
+  .navbar.open {
+    height: 100vh;
+  }
+  
+  .navbar button {
+    margin: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 20px;
+    margin-left: 2.5em;
+  }
+  
+  .navbar li {
+    font-family: 'Kunai' !important;
+    margin-bottom: 10px;
+    font-size: 6em;
+    font-weight: 300;
+    line-height: 1.5em;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  .navbar li:hover {
+    color: #007BFF;
+}
+  
+  .hamburger {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 4em !important;
+  }
+  
+  .hamburger div {
+    width: 40px;
+    height: 2px;
+    background-color: #333;
+    margin: 4px 0;
+  }
+  

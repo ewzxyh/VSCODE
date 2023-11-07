@@ -1,0 +1,19 @@
+.profile-card {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+  }
+  
+  
+  .profile-card h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .profile-card p {
+    color: #666;
+  }
+  

@@ -1,0 +1,188 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "primeiroNome": "João",
+      "segundoNome": "Silva",
+      "endereco": "Rua Exemplo, 123",
+      "email": "joao@example.com",
+      "telefone": "21994217890",
+      "receberAtualizacoes": true
+    },
+    {
+      "id": 2,
+      "primeiroNome": "Maria",
+      "segundoNome": "Souza",
+      "endereco": "Avenida Teste, 456",
+      "email": "maria@example.com",
+      "telefone": "62982543210",
+      "receberAtualizacoes": false
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "MacBook Pro",
+      "categoria": "Mac",
+      "preco": 1999.99,
+      "descricao": "O MacBook Pro é um laptop poderoso da Apple, ideal para profissionais criativos e usuários avançados.",
+      "estoque": 15,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iMac",
+      "categoria": "Mac",
+      "preco": 1299.99,
+      "descricao": "O iMac é um computador all-in-one elegante e eficiente para uso doméstico e profissional.",
+      "estoque": 10,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+
+    },
+    {
+      "nome": "Mac Mini",
+      "categoria": "Mac",
+      "preco": 699.99,
+      "descricao": "O Mac Mini é um computador compacto e versátil adequado para diversas tarefas.",
+      "estoque": 20,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+
+    },
+    {
+      "nome": "iPad Pro",
+      "categoria": "iPad",
+      "preco": 799.99,
+      "descricao": "O iPad Pro é um tablet de alto desempenho com tela Retina e suporte para Apple Pencil.",
+      "estoque": 25,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iPad Air",
+      "categoria": "iPad",
+      "preco": 599.99,
+      "descricao": "O iPad Air é um tablet leve e potente, perfeito para produtividade e entretenimento.",
+      "estoque": 30,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iPad Mini",
+      "categoria": "iPad",
+      "preco": 399.99,
+      "descricao": "O iPad Mini é um tablet compacto e portátil, ideal para uso em movimento.",
+      "estoque": 40,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iPhone 13 Pro",
+      "categoria": "iPhone",
+      "preco": 999.99,
+      "descricao": "O iPhone 13 Pro é um smartphone de última geração com câmeras avançadas e desempenho excepcional.",
+      "estoque": 50,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iPhone SE",
+      "categoria": "iPhone",
+      "preco": 399.99,
+      "descricao": "O iPhone SE é um dispositivo compacto, oferecendo desempenho surpreendente a um preço acessível.",
+      "estoque": 60,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iPhone 13 Mini",
+      "categoria": "iPhone",
+      "preco": 699.99,
+      "descricao": "O iPhone 13 Mini é um smartphone pequeno, mas poderoso, ideal para quem gosta de portabilidade.",
+      "estoque": 70,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "Apple Watch Series 7",
+      "categoria": "Watch",
+      "preco": 299.99,
+      "descricao": "O Apple Watch Series 7 é um relógio inteligente com monitoramento avançado de saúde e fitness.",
+      "estoque": 30,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "AirPods Pro",
+      "categoria": "Airpods",
+      "preco": 199.99,
+      "descricao": "Os AirPods Pro oferecem cancelamento de ruído ativo e qualidade de som excepcional.",
+      "estoque": 100,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "Apple TV 4K",
+      "categoria": "TV",
+      "preco": 149.99,
+      "descricao": "A Apple TV 4K oferece streaming de alta qualidade e suporte para conteúdo em 4K.",
+      "estoque": 20,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "HomePod Mini",
+      "categoria": "Casa",
+      "preco": 99.99,
+      "descricao": "O HomePod Mini é um alto-falante inteligente que pode ser controlado com a voz.",
+      "estoque": 15,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "Apple Pencil",
+      "categoria": "Acessórios",
+      "preco": 79.99,
+      "descricao": "A Apple Pencil é uma caneta digital sensível à pressão, perfeita para desenho e anotações em iPads.",
+      "estoque": 50,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "Magic Mouse 2",
+      "categoria": "Acessórios",
+      "preco": 69.99,
+      "descricao": "O Magic Mouse 2 é um mouse sem fio com design elegante e gestos multi-touch.",
+      "estoque": 40,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "MacBook Air",
+      "categoria": "Mac",
+      "preco": 999.99,
+      "descricao": "O MacBook Air é um laptop leve e portátil, perfeito para usuários em movimento.",
+      "estoque": 20,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iPad 9ª Geração",
+      "categoria": "iPad",
+      "preco": 329.99,
+      "descricao": "O iPad de 9ª geração oferece desempenho confiável a um preço acessível.",
+      "estoque": 35,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    },
+    {
+      "nome": "iPhone 13",
+      "categoria": "iPhone",
+      "preco": 799.99,
+      "descricao": "O iPhone 13 oferece um equilíbrio entre desempenho e valor.",
+      "estoque": 60,
+      "imagem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-15-pro-202309?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1692910040844"
+    }
+  ],
+  "cadastros": [
+    {
+      "login": "admin",
+      "senha": "admin"
+    },
+    {
+      "login": "usuario1",
+      "senha": "senha1"
+    },
+    {
+      "login": "usuario2",
+      "senha": "senha2"
+    },
+    {
+      "login": "usuario3",
+      "senha": "senha3"
+    }
+  ]
+}

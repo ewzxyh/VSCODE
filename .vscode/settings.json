@@ -30,5 +30,11 @@
         "c:\\Users\\yoshi\\Downloads\\jfoenix-8.0.1.jar",
         "c:\\Users\\yoshi\\Downloads\\fontawesomefx-glyphsbrowser-all-1.0.jar",
         "c:\\Users\\yoshi\\Downloads\\fontawesomefx-8.9.jar"
-    ]
+    ],
+    "java.project.sourcePaths": [
+        "maven",
+        "home",
+        ".vscode"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

@@ -1,0 +1,37 @@
+{
+  "restaurante": [
+    {
+      "name": "Pizza Pepperoni",
+      "price": "50",
+      "tipos": {
+        "id": "1",
+        "name": "Pizzas"
+      },
+      "total": 0,
+      "valores": [],
+      "id": 1
+    }
+  ],
+  "tipos": [
+    {
+      "id": 1,
+      "name": "Pizzas"
+    },
+    {
+      "id": 2,
+      "name": "Bebidas"
+    },
+    {
+      "id": 3,
+      "name": "Massas"
+    },
+    {
+      "id": 4,
+      "name": "Sanduiches"
+    },
+    {
+      "id": 5,
+      "name": "Saladas"
+    }
+  ]
+}

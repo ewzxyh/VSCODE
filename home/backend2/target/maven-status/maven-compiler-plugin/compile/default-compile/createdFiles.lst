@@ -1,0 +1,9 @@
+backend2\model\Empresa.class
+backend2\model\PessoaEmpresa.class
+backend2\App.class
+backend2\model\Pessoa.class
+backend2\repository\PessoaRepository.class
+backend2\service\PessoaService.class
+backend2\controller\PessoaController.class
+backend2\dto\PessoaDto.class
+backend2\mapper\PessoaMapper.class

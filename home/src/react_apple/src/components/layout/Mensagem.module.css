@@ -1,0 +1,22 @@
+.msg {
+    width: 200%;
+    padding: 1em;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+    border-radius: 8px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.sucesso {
+    color: green;
+    background-color: #d5ead5;
+    border-color: #9df8b3;
+    border: 1px solid #549e66;
+    border-radius: 8px;
+}
